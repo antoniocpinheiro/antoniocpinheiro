@@ -1,22 +1,11 @@
-<h1 align="center">OI 👋, Eu sou Engenheiro de Dados</h1>
-<h3 align="center">Sou um dos guris dos dados da Fundação!</h3>
+<h1 align="center">Oi 👋, eu sou o Antônio</h1>
+<h3 align="center">Engenheiro de Dados · um dos guris dos dados da Fundação!</h3>
 
-- 🔭 Atualmente eu trabalho na Fundacred [www.fundacred.org.br](www.fundacred.org.br)
+### 🛠️ Stack
 
-- 📄 Um pouco mais sobre minhas experiências [https://www.linkedin.com/in/antoniocpinheiro/](https://www.linkedin.com/in/antoniocpinheiro/)
-
-
-
-
-<!---
-
-- 👋 Hi, I’m @antoniocpinheiro
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-
-antoniocpinheiro/antoniocpinheiro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Databricks](https://img.shields.io/badge/Databricks-333333?style=flat-square&logo=databricks&logoColor=white)
+![Python](https://img.shields.io/badge/Python-333333?style=flat-square&logo=python&logoColor=white)
+![Oracle SQL](https://img.shields.io/badge/Oracle_SQL-333333?style=flat-square&logo=oracle&logoColor=white)
+![Azure Data Factory](https://img.shields.io/badge/Azure_Data_Factory-333333?style=flat-square&logo=microsoftazure&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-333333?style=flat-square&logo=powershell&logoColor=white)
+![DuckDB](https://img.shields.io/badge/DuckDB-333333?style=flat-square&logo=duckdb&logoColor=white)
